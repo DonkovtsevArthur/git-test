@@ -1,5 +1,0 @@
-привет
-я вася 
-test
-server
-client
